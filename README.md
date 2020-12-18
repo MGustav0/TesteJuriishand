@@ -42,7 +42,7 @@ docker run --name JursHandNode -d -p 49160:3000 node:14.15.1
 
 4. Dentro da pasta do projeto clonado execute o comando `yarn` e aguarde a instalação das dependências.
 
-5. Baixe o [Insomnia](https://insomnia.rest/download/) e o meu [workspace](https://github.com/MGustav0/TesteJuriishand/blob/main/extras/jurishand_insomnia.json) para acessar as funções.
+5. Baixe o [Insomnia](https://insomnia.rest/download/) e o meu [workspace](https://github.com/MGustav0/TesteJurishand/blob/main/extras/jurishand_insomnia.json) para acessar as funções.
 
 ## :octopus: Desenvolvedor
 
