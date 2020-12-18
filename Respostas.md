@@ -62,7 +62,7 @@ DELETE from usuarios WHERE id = 1;
 
 ## Questão 2
 
-Caso seja pertinente, por favor vejam isso rodando no express com NodeJS [neste link do GitHub](https://github.com/MGustav0/TesteJuriishand).
+Caso seja pertinente, por favor vejam isso rodando no express com NodeJS [neste link do GitHub](https://github.com/MGustav0/TesteJurishand).
 
 Utilizei duas funções uma para ler e outra para escrever o arquivo `usuario.json`:
 
